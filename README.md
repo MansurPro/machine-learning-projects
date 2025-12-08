@@ -9,6 +9,7 @@ Machine learning projects from Grokking Machine Learning by Luis Serrano
 
 Welcome! This repository is a hands-on journey through the most important concepts in machine learning, with code, datasets, and visualizations for each chapter. Each notebook is designed for interactive learning and experimentation.
 
+
 ### 📚 What You'll Learn
 - Linear Regression: Predicting housing prices and visualizing regression lines
 - Overfitting & Underfitting: How to test, regularize, and improve models
@@ -17,8 +18,14 @@ Welcome! This repository is a hands-on journey through the most important concep
 - Naive Bayes: Text classification and probability-based predictions
 - Decision Trees: App recommendations and interpretable models
 - Neural Networks: Deep learning for house price prediction and image recognition
+- **Support Vector Machines (SVM):** Building datasets, visualizing boundaries, and kernel tricks
+- **Ensemble Methods:** AdaBoost, Random Forests, Gradient Boosting, and XGBoost for robust predictions
+- **End-to-End Example:** Full machine learning pipeline on the Titanic dataset
+- **Unsupervised Learning:** Image compression and clustering
 
-### 📝 What Will Be Added
+
+### 🆕 New Features & Additions
+- Expanded chapters on SVM, Ensemble Methods, and End-to-End ML pipelines
 - More datasets for experimentation
 - Advanced visualizations and interactive widgets
 - Step-by-step explanations for each algorithm
@@ -26,6 +33,7 @@ Welcome! This repository is a hands-on journey through the most important concep
 - Tips for tuning and evaluating models
 
 ---
+
 
 ## 📂 Project Structure
 
@@ -45,6 +53,14 @@ Welcome! This repository is a hands-on journey through the most important concep
   - App recommendations and decision tree visualizations
 - **Chapter 10: Neural Networks**
   - House price prediction and image recognition with neural networks
+- **Chapter 11: Support Vector Machines (SVM)**
+  - Building datasets, visualizing SVM boundaries, and kernel tricks
+- **Chapter 12: Ensemble Methods**
+  - AdaBoost, Random Forests, Gradient Boosting, and XGBoost
+- **Chapter 13: End-to-End Example**
+  - Full ML pipeline on the Titanic dataset
+- **Unsupervised Learning**
+  - Image compression and clustering
 
 Each chapter folder contains Jupyter notebooks and relevant datasets. For more details, see the README in each chapter (where available).
 
