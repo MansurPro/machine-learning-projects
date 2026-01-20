@@ -1,7 +1,7 @@
 # machine-learning-projects 🚀🤖
 Machine learning projects from Grokking Machine Learning by Luis Serrano
 
-![Machine Learning](https://upload.wikimedia.org/wikipedia/commons/4/4c/Artificial_Intelligence_%26_Machine_Learning.png)
+![Machine Learning]([https://upload.wikimedia.org/wikipedia/commons/4/4c/Artificial_Intelligence_%26_Machine_Learning.png](https://github.com/anubhavshrimal/Machine-Learning))
 
 ---
 
