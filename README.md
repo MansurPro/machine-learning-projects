@@ -70,7 +70,7 @@ Each chapter folder contains Jupyter notebooks and relevant datasets. For more d
 
 | Linear Regression | Decision Tree | Neural Network |
 |:----------------:|:------------:|:--------------:|
-| ![Linear Regression](https://scikit-learn.org/stable/_images/sphx_glr_plot_ols_001.png) | ![Decision Tree](https://scikit-learn.org/stable/_images/sphx_glr_plot_tree_regression_001.png) | ![Neural Network](https://upload.wikimedia.org/wikipedia/commons/6/60/Artificial_neural_network.png) |
+| ![Linear Regression](https://scikit-learn.org/stable/_images/sphx_glr_plot_ols_ridge_001.png) | ![Decision Tree](https://scikit-learn.org/stable/_images/sphx_glr_plot_tree_regression_001.png) | ![Neural Network](https://upload.wikimedia.org/wikipedia/commons/d/d2/Neural_network_explain.png) |
 
 ---
 
