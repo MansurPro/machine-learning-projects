@@ -1,0 +1,16 @@
+# Core numeric/data stack
+numpy
+pandas
+scipy
+
+# ML
+scikit-learn
+
+# Visualization
+matplotlib
+seaborn
+
+# Jupyter Notebook
+notebook
+ipykernel
+nbconvert
